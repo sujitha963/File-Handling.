@@ -35,4 +35,6 @@ Finally, we read the full content from the file and display it back to the user.
 
 OUTPUT:
 
+![Image](https://github.com/user-attachments/assets/f9a55bec-4e7c-486f-8a26-8f737005b89d)
+
 
